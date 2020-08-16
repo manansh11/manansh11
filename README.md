@@ -3,8 +3,6 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Solidity & Blockchain Development
 - 🌱 I’m currently learning NodeJS, Solidity, Ganache
 - 💬 Ask me about whatever you want
