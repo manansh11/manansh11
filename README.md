@@ -1,15 +1,14 @@
+[![bg][banner]][website]
+
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Solidity & Blockchain Development
+- 🌱 I’m currently learning NodeJS, Solidity, Ganache
+- 💬 Ask me about whatever you want
+- 📫 How to reach me: visit my website!
 
 
 🏡 [website][website] **|** 
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 📺 [youtube][youtube] **|** 
 👔 [linkedin][linkedin]
 
+[banner]:
 [react]: http://reactjs.org
 [website]: https://manansh.ca
 [twitter]: https://twitter.com/mananshshukla
