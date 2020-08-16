@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**manansh11/manansh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+👔 [linkedin][linkedin]
+
+[react]: http://reactjs.org
+[website]: https://manansh.ca
+[twitter]: https://twitter.com/mananshshukla
+[youtube]: https://www.youtube.com/user/Ronaldo747833
+[linkedin]: https://www.linkedin.com/in/manansh-shukla-8b3322160/
