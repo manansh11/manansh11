@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 📺 [youtube][youtube] **|** 
 👔 [linkedin][linkedin]
 
-[banner]:
+[banner]:https://raw.githubusercontent.com/manansh11/manansh11/master/Untitled%20design%20(1).png
 [react]: http://reactjs.org
 [website]: https://manansh.ca
 [twitter]: https://twitter.com/mananshshukla
