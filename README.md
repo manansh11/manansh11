@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Solidity & Blockchain Development
-- 🌱 I’m currently learning NodeJS, Solidity, Ganache
+- 🌱 I’m currently learning React, Solidity, Ganache / Truffle
 - 💬 Ask me about whatever you want
 - 📫 How to reach me: visit my website!
 
