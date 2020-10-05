@@ -1,4 +1,3 @@
-[![bg][banner]][website]
 
 
 ### Hi there 👋
